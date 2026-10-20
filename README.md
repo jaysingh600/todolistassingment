@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
-## this project is based on your daily routine you add daily thing
+## this project is based on your daily routine you add daily thing what you do
 In the project directory, you can run:
 
 ### `npm start` in server
